@@ -5,3 +5,5 @@ console.log("Ini diubah langsung di github");
 console.log("Test git pull");
 console.log("Testing merge conflict dari lokal");
 console.log("Test merge conflic");
+
+console.log("Testing merge conflict2");
